@@ -1,0 +1,28 @@
+.banner {
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 50%), url(https://www.buzzwebzine.fr/wp-content/uploads/2020/11/Polynesie-francaise.jpg);
+	background-size: cover;
+	background-position: center;
+	padding-top: 150px;
+	padding-bottom: 150px;
+	transition: 1.5s ease;
+	transition-property: font-size;
+  	transition-duration: 4s;
+  	transition-delay: 2s;
+}
+
+.banner h2 {
+	color: white;
+	font-size: 25px;
+	font-weight: lighter;
+	opacity: 0.85;
+	margin-bottom: 60px;
+}
+
+.banner:hover {
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 50%), url(https://www.liste-noire.org/wp-content/uploads/2020/12/destination-de-reve.jpg);
+	background-size: cover;
+	background-position: center;
+	padding-top: 150px;
+	padding-bottom: 150px;
+	transition: 1.5s ease;
+}

@@ -1,0 +1,34 @@
+.btn-blue {
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+	background-color: #797878d1;
+	font-weight: bold;
+	font-family: 'Playfair Display', serif;
+	transition: 0.5s ease;
+	box-shadow: 0px 10px 35px rgb(0 0 0 / 15%);
+}
+
+.btn-blue:hover {
+	text-decoration: none;
+	color: #797878d1;
+	background-color: white;
+}
+
+.btn-1 {
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+	background-color: #09566dc9;
+	font-weight: bold;
+	font-family: 'Playfair Display', serif;
+	transition: 0.5s ease;
+	box-shadow: 0px 10px 35px rgb(0 0 0 / 15%);
+}
+
+
+
+.btn-1:hover {
+	color: #09566dc9;
+	background-color: white;
+}
